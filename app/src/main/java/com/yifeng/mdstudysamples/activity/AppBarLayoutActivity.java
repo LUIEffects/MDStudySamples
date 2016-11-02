@@ -18,6 +18,7 @@ import com.yifeng.mdstudysamples.R;
  */
 public class AppBarLayoutActivity extends BaseActivity {
 
+
     private SwipeRefreshLayout mRefreshSrl;
     private RecyclerView mContentRv;
 
